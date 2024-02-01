@@ -1,0 +1,2 @@
+[29-Jan-2024 15:39:27 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/jahangee/public_html/crm.jahangeersecurities.com/vendor/composer/ClassLoader.php on line 582
+[29-Jan-2024 15:39:27 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/jahangee/public_html/crm.jahangeersecurities.com/vendor/composer/ClassLoader.php on line 582
